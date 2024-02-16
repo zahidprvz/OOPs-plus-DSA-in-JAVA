@@ -5,9 +5,9 @@ This repository contains different Java files for different concepts of OOPs and
 2=> Installation
 
 To get started with this repository, you can clone it locally using the following command:
-
-git clone https://github.com/<your_username>/<your_repository>.git
-
+```
+git clone https://github.com/zahidprvz/OOPs-plus-DSA-in-JAVA.git
+```
 
 Alternatively, you can download the repository as a ZIP file by clicking on the "Download ZIP" button.
 
